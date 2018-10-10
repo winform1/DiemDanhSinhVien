@@ -1,0 +1,188 @@
+E:\A_Môn Chuyên Ngành\Ôn window\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\DiemDanhSinhVien.exe
+E:\A_Môn Chuyên Ngành\Ôn window\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\DiemDanhSinhVien.pdb
+E:\A_Môn Chuyên Ngành\Ôn window\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\DevExpress.BonusSkins.v15.1.dll
+E:\A_Môn Chuyên Ngành\Ôn window\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\DevExpress.Data.v15.1.dll
+E:\A_Môn Chuyên Ngành\Ôn window\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\DevExpress.Printing.v15.1.Core.dll
+E:\A_Môn Chuyên Ngành\Ôn window\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\DevExpress.Sparkline.v15.1.Core.dll
+E:\A_Môn Chuyên Ngành\Ôn window\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\DevExpress.Utils.v15.1.dll
+E:\A_Môn Chuyên Ngành\Ôn window\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\DevExpress.XtraBars.v15.1.dll
+E:\A_Môn Chuyên Ngành\Ôn window\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\DevExpress.XtraEditors.v15.1.dll
+E:\A_Môn Chuyên Ngành\Ôn window\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\DevExpress.Data.v15.1.xml
+E:\A_Môn Chuyên Ngành\Ôn window\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+E:\A_Môn Chuyên Ngành\Ôn window\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\DevExpress.Utils.v15.1.xml
+E:\A_Môn Chuyên Ngành\Ôn window\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\DevExpress.XtraBars.v15.1.xml
+E:\A_Môn Chuyên Ngành\Ôn window\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\DevExpress.Sparkline.v15.1.Core.xml
+E:\A_Môn Chuyên Ngành\Ôn window\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\DevExpress.XtraEditors.v15.1.xml
+E:\A_Môn Chuyên Ngành\Ôn window\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+E:\A_Môn Chuyên Ngành\Ôn window\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+E:\A_Môn Chuyên Ngành\Ôn window\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+E:\A_Môn Chuyên Ngành\Ôn window\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+E:\A_Môn Chuyên Ngành\Ôn window\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+E:\A_Môn Chuyên Ngành\Ôn window\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+E:\A_Môn Chuyên Ngành\Ôn window\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+E:\A_Môn Chuyên Ngành\Ôn window\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+E:\A_Môn Chuyên Ngành\Ôn window\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\de\DevExpress.Utils.v15.1.resources.dll
+E:\A_Môn Chuyên Ngành\Ôn window\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\es\DevExpress.Utils.v15.1.resources.dll
+E:\A_Môn Chuyên Ngành\Ôn window\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\ja\DevExpress.Utils.v15.1.resources.dll
+E:\A_Môn Chuyên Ngành\Ôn window\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\ru\DevExpress.Utils.v15.1.resources.dll
+E:\A_Môn Chuyên Ngành\Ôn window\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\de\DevExpress.XtraBars.v15.1.resources.dll
+E:\A_Môn Chuyên Ngành\Ôn window\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\es\DevExpress.XtraBars.v15.1.resources.dll
+E:\A_Môn Chuyên Ngành\Ôn window\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\ja\DevExpress.XtraBars.v15.1.resources.dll
+E:\A_Môn Chuyên Ngành\Ôn window\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\ru\DevExpress.XtraBars.v15.1.resources.dll
+E:\A_Môn Chuyên Ngành\Ôn window\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\de\DevExpress.Sparkline.v15.1.Core.resources.dll
+E:\A_Môn Chuyên Ngành\Ôn window\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\es\DevExpress.Sparkline.v15.1.Core.resources.dll
+E:\A_Môn Chuyên Ngành\Ôn window\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\ja\DevExpress.Sparkline.v15.1.Core.resources.dll
+E:\A_Môn Chuyên Ngành\Ôn window\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\ru\DevExpress.Sparkline.v15.1.Core.resources.dll
+E:\A_Môn Chuyên Ngành\Ôn window\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\de\DevExpress.XtraEditors.v15.1.resources.dll
+E:\A_Môn Chuyên Ngành\Ôn window\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\es\DevExpress.XtraEditors.v15.1.resources.dll
+E:\A_Môn Chuyên Ngành\Ôn window\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\ja\DevExpress.XtraEditors.v15.1.resources.dll
+E:\A_Môn Chuyên Ngành\Ôn window\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\ru\DevExpress.XtraEditors.v15.1.resources.dll
+E:\A_Môn Chuyên Ngành\Ôn window\DiemDanhSinhVien\DiemDanhSinhVien\obj\Debug\DiemDanhSinhVien.csprojResolveAssemblyReference.cache
+E:\A_Môn Chuyên Ngành\Ôn window\DiemDanhSinhVien\DiemDanhSinhVien\obj\Debug\DiemDanhSinhVien.frmMain.resources
+E:\A_Môn Chuyên Ngành\Ôn window\DiemDanhSinhVien\DiemDanhSinhVien\obj\Debug\DiemDanhSinhVien.Properties.Resources.resources
+E:\A_Môn Chuyên Ngành\Ôn window\DiemDanhSinhVien\DiemDanhSinhVien\obj\Debug\DiemDanhSinhVien.csproj.GenerateResource.Cache
+E:\A_Môn Chuyên Ngành\Ôn window\DiemDanhSinhVien\DiemDanhSinhVien\obj\Debug\DiemDanhSinhVien.exe.licenses
+E:\A_Môn Chuyên Ngành\Ôn window\DiemDanhSinhVien\DiemDanhSinhVien\obj\Debug\DiemDanhSinhVien.exe
+E:\A_Môn Chuyên Ngành\Ôn window\DiemDanhSinhVien\DiemDanhSinhVien\obj\Debug\DiemDanhSinhVien.pdb
+E:\A_Môn Chuyên Ngành\Window nc\DiemDanhSinhVien\DiemDanhSinhVien\obj\Debug\DiemDanhSinhVien.exe
+E:\A_Môn Chuyên Ngành\Window nc\DiemDanhSinhVien\DiemDanhSinhVien\obj\Debug\DiemDanhSinhVien.pdb
+E:\A_Môn Chuyên Ngành\Window nc\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\DiemDanhSinhVien.exe
+E:\A_Môn Chuyên Ngành\Window nc\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\DiemDanhSinhVien.pdb
+E:\A_Môn Chuyên Ngành\Window nc\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\DevExpress.BonusSkins.v15.1.dll
+E:\A_Môn Chuyên Ngành\Window nc\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\DevExpress.Data.v15.1.dll
+E:\A_Môn Chuyên Ngành\Window nc\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\DevExpress.Printing.v15.1.Core.dll
+E:\A_Môn Chuyên Ngành\Window nc\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\DevExpress.Sparkline.v15.1.Core.dll
+E:\A_Môn Chuyên Ngành\Window nc\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\DevExpress.Utils.v15.1.dll
+E:\A_Môn Chuyên Ngành\Window nc\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\DevExpress.XtraBars.v15.1.dll
+E:\A_Môn Chuyên Ngành\Window nc\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\DevExpress.XtraEditors.v15.1.dll
+E:\A_Môn Chuyên Ngành\Window nc\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\DevExpress.Data.v15.1.xml
+E:\A_Môn Chuyên Ngành\Window nc\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+E:\A_Môn Chuyên Ngành\Window nc\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\DevExpress.Utils.v15.1.xml
+E:\A_Môn Chuyên Ngành\Window nc\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\DevExpress.XtraBars.v15.1.xml
+E:\A_Môn Chuyên Ngành\Window nc\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\DevExpress.Sparkline.v15.1.Core.xml
+E:\A_Môn Chuyên Ngành\Window nc\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\DevExpress.XtraEditors.v15.1.xml
+E:\A_Môn Chuyên Ngành\Window nc\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+E:\A_Môn Chuyên Ngành\Window nc\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+E:\A_Môn Chuyên Ngành\Window nc\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+E:\A_Môn Chuyên Ngành\Window nc\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+E:\A_Môn Chuyên Ngành\Window nc\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+E:\A_Môn Chuyên Ngành\Window nc\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+E:\A_Môn Chuyên Ngành\Window nc\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+E:\A_Môn Chuyên Ngành\Window nc\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+E:\A_Môn Chuyên Ngành\Window nc\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\de\DevExpress.Utils.v15.1.resources.dll
+E:\A_Môn Chuyên Ngành\Window nc\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\es\DevExpress.Utils.v15.1.resources.dll
+E:\A_Môn Chuyên Ngành\Window nc\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\ja\DevExpress.Utils.v15.1.resources.dll
+E:\A_Môn Chuyên Ngành\Window nc\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\ru\DevExpress.Utils.v15.1.resources.dll
+E:\A_Môn Chuyên Ngành\Window nc\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\de\DevExpress.XtraBars.v15.1.resources.dll
+E:\A_Môn Chuyên Ngành\Window nc\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\es\DevExpress.XtraBars.v15.1.resources.dll
+E:\A_Môn Chuyên Ngành\Window nc\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\ja\DevExpress.XtraBars.v15.1.resources.dll
+E:\A_Môn Chuyên Ngành\Window nc\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\ru\DevExpress.XtraBars.v15.1.resources.dll
+E:\A_Môn Chuyên Ngành\Window nc\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\de\DevExpress.Sparkline.v15.1.Core.resources.dll
+E:\A_Môn Chuyên Ngành\Window nc\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\es\DevExpress.Sparkline.v15.1.Core.resources.dll
+E:\A_Môn Chuyên Ngành\Window nc\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\ja\DevExpress.Sparkline.v15.1.Core.resources.dll
+E:\A_Môn Chuyên Ngành\Window nc\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\ru\DevExpress.Sparkline.v15.1.Core.resources.dll
+E:\A_Môn Chuyên Ngành\Window nc\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\de\DevExpress.XtraEditors.v15.1.resources.dll
+E:\A_Môn Chuyên Ngành\Window nc\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\es\DevExpress.XtraEditors.v15.1.resources.dll
+E:\A_Môn Chuyên Ngành\Window nc\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\ja\DevExpress.XtraEditors.v15.1.resources.dll
+E:\A_Môn Chuyên Ngành\Window nc\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\ru\DevExpress.XtraEditors.v15.1.resources.dll
+E:\A_Môn Chuyên Ngành\Window nc\DiemDanhSinhVien\DiemDanhSinhVien\obj\Debug\DiemDanhSinhVien.csprojResolveAssemblyReference.cache
+E:\A_Môn Chuyên Ngành\Window nc\DiemDanhSinhVien\DiemDanhSinhVien\obj\Debug\DiemDanhSinhVien.frmMain.resources
+E:\A_Môn Chuyên Ngành\Window nc\DiemDanhSinhVien\DiemDanhSinhVien\obj\Debug\DiemDanhSinhVien.Properties.Resources.resources
+E:\A_Môn Chuyên Ngành\Window nc\DiemDanhSinhVien\DiemDanhSinhVien\obj\Debug\DiemDanhSinhVien.csproj.GenerateResource.Cache
+E:\A_Môn Chuyên Ngành\Window nc\DiemDanhSinhVien\DiemDanhSinhVien\obj\Debug\DiemDanhSinhVien.exe.licenses
+C:\Users\PC-NAV\Documents\GitHub\QuanlyDiemDanhSv\QuanlyDiemDanhSv\DiemDanhSinhVien\DiemDanhSinhVien\obj\Debug\DiemDanhSinhVien.exe
+C:\Users\PC-NAV\Documents\GitHub\QuanlyDiemDanhSv\QuanlyDiemDanhSv\DiemDanhSinhVien\DiemDanhSinhVien\obj\Debug\DiemDanhSinhVien.pdb
+C:\Users\PC-NAV\Documents\GitHub\QuanlyDiemDanhSv\QuanlyDiemDanhSv\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\DiemDanhSinhVien.exe
+C:\Users\PC-NAV\Documents\GitHub\QuanlyDiemDanhSv\QuanlyDiemDanhSv\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\DiemDanhSinhVien.pdb
+C:\Users\PC-NAV\Documents\GitHub\QuanlyDiemDanhSv\QuanlyDiemDanhSv\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\DevExpress.BonusSkins.v15.1.dll
+C:\Users\PC-NAV\Documents\GitHub\QuanlyDiemDanhSv\QuanlyDiemDanhSv\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\DevExpress.Data.v15.1.dll
+C:\Users\PC-NAV\Documents\GitHub\QuanlyDiemDanhSv\QuanlyDiemDanhSv\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\DevExpress.Printing.v15.1.Core.dll
+C:\Users\PC-NAV\Documents\GitHub\QuanlyDiemDanhSv\QuanlyDiemDanhSv\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\DevExpress.Sparkline.v15.1.Core.dll
+C:\Users\PC-NAV\Documents\GitHub\QuanlyDiemDanhSv\QuanlyDiemDanhSv\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\DevExpress.Utils.v15.1.dll
+C:\Users\PC-NAV\Documents\GitHub\QuanlyDiemDanhSv\QuanlyDiemDanhSv\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\DevExpress.XtraBars.v15.1.dll
+C:\Users\PC-NAV\Documents\GitHub\QuanlyDiemDanhSv\QuanlyDiemDanhSv\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\DevExpress.XtraEditors.v15.1.dll
+C:\Users\PC-NAV\Documents\GitHub\QuanlyDiemDanhSv\QuanlyDiemDanhSv\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\DevExpress.Data.v15.1.xml
+C:\Users\PC-NAV\Documents\GitHub\QuanlyDiemDanhSv\QuanlyDiemDanhSv\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+C:\Users\PC-NAV\Documents\GitHub\QuanlyDiemDanhSv\QuanlyDiemDanhSv\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\DevExpress.Utils.v15.1.xml
+C:\Users\PC-NAV\Documents\GitHub\QuanlyDiemDanhSv\QuanlyDiemDanhSv\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\DevExpress.XtraBars.v15.1.xml
+C:\Users\PC-NAV\Documents\GitHub\QuanlyDiemDanhSv\QuanlyDiemDanhSv\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\DevExpress.Sparkline.v15.1.Core.xml
+C:\Users\PC-NAV\Documents\GitHub\QuanlyDiemDanhSv\QuanlyDiemDanhSv\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\DevExpress.XtraEditors.v15.1.xml
+C:\Users\PC-NAV\Documents\GitHub\QuanlyDiemDanhSv\QuanlyDiemDanhSv\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+C:\Users\PC-NAV\Documents\GitHub\QuanlyDiemDanhSv\QuanlyDiemDanhSv\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+C:\Users\PC-NAV\Documents\GitHub\QuanlyDiemDanhSv\QuanlyDiemDanhSv\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+C:\Users\PC-NAV\Documents\GitHub\QuanlyDiemDanhSv\QuanlyDiemDanhSv\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+C:\Users\PC-NAV\Documents\GitHub\QuanlyDiemDanhSv\QuanlyDiemDanhSv\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\PC-NAV\Documents\GitHub\QuanlyDiemDanhSv\QuanlyDiemDanhSv\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\PC-NAV\Documents\GitHub\QuanlyDiemDanhSv\QuanlyDiemDanhSv\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\PC-NAV\Documents\GitHub\QuanlyDiemDanhSv\QuanlyDiemDanhSv\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\PC-NAV\Documents\GitHub\QuanlyDiemDanhSv\QuanlyDiemDanhSv\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\de\DevExpress.Utils.v15.1.resources.dll
+C:\Users\PC-NAV\Documents\GitHub\QuanlyDiemDanhSv\QuanlyDiemDanhSv\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\es\DevExpress.Utils.v15.1.resources.dll
+C:\Users\PC-NAV\Documents\GitHub\QuanlyDiemDanhSv\QuanlyDiemDanhSv\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\ja\DevExpress.Utils.v15.1.resources.dll
+C:\Users\PC-NAV\Documents\GitHub\QuanlyDiemDanhSv\QuanlyDiemDanhSv\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\ru\DevExpress.Utils.v15.1.resources.dll
+C:\Users\PC-NAV\Documents\GitHub\QuanlyDiemDanhSv\QuanlyDiemDanhSv\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\de\DevExpress.XtraBars.v15.1.resources.dll
+C:\Users\PC-NAV\Documents\GitHub\QuanlyDiemDanhSv\QuanlyDiemDanhSv\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\es\DevExpress.XtraBars.v15.1.resources.dll
+C:\Users\PC-NAV\Documents\GitHub\QuanlyDiemDanhSv\QuanlyDiemDanhSv\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\ja\DevExpress.XtraBars.v15.1.resources.dll
+C:\Users\PC-NAV\Documents\GitHub\QuanlyDiemDanhSv\QuanlyDiemDanhSv\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\ru\DevExpress.XtraBars.v15.1.resources.dll
+C:\Users\PC-NAV\Documents\GitHub\QuanlyDiemDanhSv\QuanlyDiemDanhSv\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\de\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\PC-NAV\Documents\GitHub\QuanlyDiemDanhSv\QuanlyDiemDanhSv\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\es\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\PC-NAV\Documents\GitHub\QuanlyDiemDanhSv\QuanlyDiemDanhSv\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\ja\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\PC-NAV\Documents\GitHub\QuanlyDiemDanhSv\QuanlyDiemDanhSv\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\ru\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\PC-NAV\Documents\GitHub\QuanlyDiemDanhSv\QuanlyDiemDanhSv\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\de\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\PC-NAV\Documents\GitHub\QuanlyDiemDanhSv\QuanlyDiemDanhSv\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\es\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\PC-NAV\Documents\GitHub\QuanlyDiemDanhSv\QuanlyDiemDanhSv\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\ja\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\PC-NAV\Documents\GitHub\QuanlyDiemDanhSv\QuanlyDiemDanhSv\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\ru\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\PC-NAV\Documents\GitHub\QuanlyDiemDanhSv\QuanlyDiemDanhSv\DiemDanhSinhVien\DiemDanhSinhVien\obj\Debug\DiemDanhSinhVien.csprojResolveAssemblyReference.cache
+C:\Users\PC-NAV\Documents\GitHub\QuanlyDiemDanhSv\QuanlyDiemDanhSv\DiemDanhSinhVien\DiemDanhSinhVien\obj\Debug\DiemDanhSinhVien.frmMain.resources
+C:\Users\PC-NAV\Documents\GitHub\QuanlyDiemDanhSv\QuanlyDiemDanhSv\DiemDanhSinhVien\DiemDanhSinhVien\obj\Debug\DiemDanhSinhVien.Properties.Resources.resources
+C:\Users\PC-NAV\Documents\GitHub\QuanlyDiemDanhSv\QuanlyDiemDanhSv\DiemDanhSinhVien\DiemDanhSinhVien\obj\Debug\DiemDanhSinhVien.csproj.GenerateResource.Cache
+C:\Users\PC-NAV\Documents\GitHub\QuanlyDiemDanhSv\QuanlyDiemDanhSv\DiemDanhSinhVien\DiemDanhSinhVien\obj\Debug\DiemDanhSinhVien.exe.licenses
+C:\Users\WTFBee\Documents\GitHub\QuanlyDiemDanhSv\projectWinform\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\DiemDanhSinhVien.exe.config
+C:\Users\WTFBee\Documents\GitHub\QuanlyDiemDanhSv\projectWinform\DiemDanhSinhVien\DiemDanhSinhVien\obj\Debug\DiemDanhSinhVien.exe
+C:\Users\WTFBee\Documents\GitHub\QuanlyDiemDanhSv\projectWinform\DiemDanhSinhVien\DiemDanhSinhVien\obj\Debug\DiemDanhSinhVien.pdb
+C:\Users\PC-NAV\Documents\GitHub\QuanlyDiemDanhSv\projectWinform\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\DiemDanhSinhVien.exe.config
+C:\Users\PC-NAV\Documents\GitHub\QuanlyDiemDanhSv\projectWinform\DiemDanhSinhVien\DiemDanhSinhVien\obj\Debug\DiemDanhSinhVien.exe
+C:\Users\PC-NAV\Documents\GitHub\QuanlyDiemDanhSv\projectWinform\DiemDanhSinhVien\DiemDanhSinhVien\obj\Debug\DiemDanhSinhVien.pdb
+C:\Users\PC-NAV\Documents\GitHub\QuanlyDiemDanhSv\projectWinform\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\DiemDanhSinhVien.exe
+C:\Users\PC-NAV\Documents\GitHub\QuanlyDiemDanhSv\projectWinform\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\DiemDanhSinhVien.pdb
+C:\Users\PC-NAV\Documents\GitHub\QuanlyDiemDanhSv\projectWinform\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\DevExpress.BonusSkins.v15.1.dll
+C:\Users\PC-NAV\Documents\GitHub\QuanlyDiemDanhSv\projectWinform\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\DevExpress.Data.v15.1.dll
+C:\Users\PC-NAV\Documents\GitHub\QuanlyDiemDanhSv\projectWinform\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\DevExpress.Printing.v15.1.Core.dll
+C:\Users\PC-NAV\Documents\GitHub\QuanlyDiemDanhSv\projectWinform\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\DevExpress.Sparkline.v15.1.Core.dll
+C:\Users\PC-NAV\Documents\GitHub\QuanlyDiemDanhSv\projectWinform\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\DevExpress.Utils.v15.1.dll
+C:\Users\PC-NAV\Documents\GitHub\QuanlyDiemDanhSv\projectWinform\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\DevExpress.XtraBars.v15.1.dll
+C:\Users\PC-NAV\Documents\GitHub\QuanlyDiemDanhSv\projectWinform\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\DevExpress.XtraEditors.v15.1.dll
+C:\Users\PC-NAV\Documents\GitHub\QuanlyDiemDanhSv\projectWinform\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\DevExpress.Data.v15.1.xml
+C:\Users\PC-NAV\Documents\GitHub\QuanlyDiemDanhSv\projectWinform\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+C:\Users\PC-NAV\Documents\GitHub\QuanlyDiemDanhSv\projectWinform\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\DevExpress.Utils.v15.1.xml
+C:\Users\PC-NAV\Documents\GitHub\QuanlyDiemDanhSv\projectWinform\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\DevExpress.XtraBars.v15.1.xml
+C:\Users\PC-NAV\Documents\GitHub\QuanlyDiemDanhSv\projectWinform\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\DevExpress.Sparkline.v15.1.Core.xml
+C:\Users\PC-NAV\Documents\GitHub\QuanlyDiemDanhSv\projectWinform\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\DevExpress.XtraEditors.v15.1.xml
+C:\Users\PC-NAV\Documents\GitHub\QuanlyDiemDanhSv\projectWinform\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+C:\Users\PC-NAV\Documents\GitHub\QuanlyDiemDanhSv\projectWinform\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+C:\Users\PC-NAV\Documents\GitHub\QuanlyDiemDanhSv\projectWinform\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+C:\Users\PC-NAV\Documents\GitHub\QuanlyDiemDanhSv\projectWinform\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+C:\Users\PC-NAV\Documents\GitHub\QuanlyDiemDanhSv\projectWinform\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\PC-NAV\Documents\GitHub\QuanlyDiemDanhSv\projectWinform\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\PC-NAV\Documents\GitHub\QuanlyDiemDanhSv\projectWinform\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\PC-NAV\Documents\GitHub\QuanlyDiemDanhSv\projectWinform\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\PC-NAV\Documents\GitHub\QuanlyDiemDanhSv\projectWinform\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\de\DevExpress.Utils.v15.1.resources.dll
+C:\Users\PC-NAV\Documents\GitHub\QuanlyDiemDanhSv\projectWinform\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\es\DevExpress.Utils.v15.1.resources.dll
+C:\Users\PC-NAV\Documents\GitHub\QuanlyDiemDanhSv\projectWinform\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\ja\DevExpress.Utils.v15.1.resources.dll
+C:\Users\PC-NAV\Documents\GitHub\QuanlyDiemDanhSv\projectWinform\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\ru\DevExpress.Utils.v15.1.resources.dll
+C:\Users\PC-NAV\Documents\GitHub\QuanlyDiemDanhSv\projectWinform\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\de\DevExpress.XtraBars.v15.1.resources.dll
+C:\Users\PC-NAV\Documents\GitHub\QuanlyDiemDanhSv\projectWinform\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\es\DevExpress.XtraBars.v15.1.resources.dll
+C:\Users\PC-NAV\Documents\GitHub\QuanlyDiemDanhSv\projectWinform\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\ja\DevExpress.XtraBars.v15.1.resources.dll
+C:\Users\PC-NAV\Documents\GitHub\QuanlyDiemDanhSv\projectWinform\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\ru\DevExpress.XtraBars.v15.1.resources.dll
+C:\Users\PC-NAV\Documents\GitHub\QuanlyDiemDanhSv\projectWinform\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\de\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\PC-NAV\Documents\GitHub\QuanlyDiemDanhSv\projectWinform\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\es\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\PC-NAV\Documents\GitHub\QuanlyDiemDanhSv\projectWinform\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\ja\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\PC-NAV\Documents\GitHub\QuanlyDiemDanhSv\projectWinform\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\ru\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\PC-NAV\Documents\GitHub\QuanlyDiemDanhSv\projectWinform\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\de\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\PC-NAV\Documents\GitHub\QuanlyDiemDanhSv\projectWinform\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\es\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\PC-NAV\Documents\GitHub\QuanlyDiemDanhSv\projectWinform\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\ja\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\PC-NAV\Documents\GitHub\QuanlyDiemDanhSv\projectWinform\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\ru\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\PC-NAV\Documents\GitHub\QuanlyDiemDanhSv\projectWinform\DiemDanhSinhVien\DiemDanhSinhVien\obj\Debug\DiemDanhSinhVien.csprojResolveAssemblyReference.cache
+C:\Users\PC-NAV\Documents\GitHub\QuanlyDiemDanhSv\projectWinform\DiemDanhSinhVien\DiemDanhSinhVien\obj\Debug\DiemDanhSinhVien.frmMain.resources
+C:\Users\PC-NAV\Documents\GitHub\QuanlyDiemDanhSv\projectWinform\DiemDanhSinhVien\DiemDanhSinhVien\obj\Debug\DiemDanhSinhVien.Properties.Resources.resources
+C:\Users\PC-NAV\Documents\GitHub\QuanlyDiemDanhSv\projectWinform\DiemDanhSinhVien\DiemDanhSinhVien\obj\Debug\DiemDanhSinhVien.csproj.GenerateResource.Cache
+C:\Users\PC-NAV\Documents\GitHub\QuanlyDiemDanhSv\projectWinform\DiemDanhSinhVien\DiemDanhSinhVien\obj\Debug\DiemDanhSinhVien.exe.licenses
