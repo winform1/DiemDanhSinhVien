@@ -1,0 +1,6 @@
+C:\Users\WTFBee\Documents\GitHub\DiemDanhSinhVien\DiemDanhSinhVien\DAL\bin\Debug\DAL.dll.config
+C:\Users\WTFBee\Documents\GitHub\DiemDanhSinhVien\DiemDanhSinhVien\DAL\bin\Debug\DAL.dll
+C:\Users\WTFBee\Documents\GitHub\DiemDanhSinhVien\DiemDanhSinhVien\DAL\bin\Debug\DAL.pdb
+C:\Users\WTFBee\Documents\GitHub\DiemDanhSinhVien\DiemDanhSinhVien\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\WTFBee\Documents\GitHub\DiemDanhSinhVien\DiemDanhSinhVien\DAL\obj\Debug\DAL.dll
+C:\Users\WTFBee\Documents\GitHub\DiemDanhSinhVien\DiemDanhSinhVien\DAL\obj\Debug\DAL.pdb
