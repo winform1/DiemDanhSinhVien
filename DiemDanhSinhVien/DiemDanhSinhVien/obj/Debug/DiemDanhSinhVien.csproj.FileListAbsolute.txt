@@ -186,3 +186,6 @@ C:\Users\PC-NAV\Documents\GitHub\QuanlyDiemDanhSv\projectWinform\DiemDanhSinhVie
 C:\Users\PC-NAV\Documents\GitHub\QuanlyDiemDanhSv\projectWinform\DiemDanhSinhVien\DiemDanhSinhVien\obj\Debug\DiemDanhSinhVien.Properties.Resources.resources
 C:\Users\PC-NAV\Documents\GitHub\QuanlyDiemDanhSv\projectWinform\DiemDanhSinhVien\DiemDanhSinhVien\obj\Debug\DiemDanhSinhVien.csproj.GenerateResource.Cache
 C:\Users\PC-NAV\Documents\GitHub\QuanlyDiemDanhSv\projectWinform\DiemDanhSinhVien\DiemDanhSinhVien\obj\Debug\DiemDanhSinhVien.exe.licenses
+C:\Users\WTFBee\Documents\GitHub\DiemDanhSinhVien\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\DiemDanhSinhVien.exe.config
+C:\Users\WTFBee\Documents\GitHub\DiemDanhSinhVien\DiemDanhSinhVien\DiemDanhSinhVien\obj\Debug\DiemDanhSinhVien.exe
+C:\Users\WTFBee\Documents\GitHub\DiemDanhSinhVien\DiemDanhSinhVien\DiemDanhSinhVien\obj\Debug\DiemDanhSinhVien.pdb
