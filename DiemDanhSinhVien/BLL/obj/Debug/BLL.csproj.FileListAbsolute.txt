@@ -1,0 +1,7 @@
+C:\Users\WTFBee\Documents\GitHub\DiemDanhSinhVien\DiemDanhSinhVien\BLL\bin\Debug\BLL.dll
+C:\Users\WTFBee\Documents\GitHub\DiemDanhSinhVien\DiemDanhSinhVien\BLL\bin\Debug\BLL.pdb
+C:\Users\WTFBee\Documents\GitHub\DiemDanhSinhVien\DiemDanhSinhVien\BLL\bin\Debug\DAL.dll
+C:\Users\WTFBee\Documents\GitHub\DiemDanhSinhVien\DiemDanhSinhVien\BLL\bin\Debug\DAL.pdb
+C:\Users\WTFBee\Documents\GitHub\DiemDanhSinhVien\DiemDanhSinhVien\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\WTFBee\Documents\GitHub\DiemDanhSinhVien\DiemDanhSinhVien\BLL\obj\Debug\BLL.dll
+C:\Users\WTFBee\Documents\GitHub\DiemDanhSinhVien\DiemDanhSinhVien\BLL\obj\Debug\BLL.pdb
