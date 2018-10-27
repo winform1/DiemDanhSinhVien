@@ -1,210 +1,148 @@
 /*==============================================================*/
 /* DBMS name:      Microsoft SQL Server 2012                    */
-/* Created on:     10/26/2018 11:41:19 PM                       */
+/* Created on:     9/19/2018 8:56:48 PM                         */
 /*==============================================================*/
 
 
 if exists (select 1
    from sys.sysreferences r join sys.sysobjects o on (o.id = r.constid and o.type = 'F')
-   where r.fkeyid = object_id('BOTRILOP') and o.name = 'FK_BOTRILOP_BOTRILOP_LOPMONHO')
-alter table BOTRILOP
-   drop constraint FK_BOTRILOP_BOTRILOP_LOPMONHO
+   where r.fkeyid = object_id('BO_TRI_LOP') and o.name = 'FK_BO_TRI_L_BO_TRI_LO_PHONG_HO')
+alter table BO_TRI_LOP
+   drop constraint FK_BO_TRI_L_BO_TRI_LO_PHONG_HO
 go
 
 if exists (select 1
    from sys.sysreferences r join sys.sysobjects o on (o.id = r.constid and o.type = 'F')
-   where r.fkeyid = object_id('BOTRILOP') and o.name = 'FK_BOTRILOP_BOTRILOP2_CAHOC')
-alter table BOTRILOP
-   drop constraint FK_BOTRILOP_BOTRILOP2_CAHOC
+   where r.fkeyid = object_id('BO_TRI_LOP') and o.name = 'FK_BO_TRI_L_BO_TRI_LO_LOP_MON_')
+alter table BO_TRI_LOP
+   drop constraint FK_BO_TRI_L_BO_TRI_LO_LOP_MON_
 go
 
 if exists (select 1
    from sys.sysreferences r join sys.sysobjects o on (o.id = r.constid and o.type = 'F')
-   where r.fkeyid = object_id('BOTRILOP') and o.name = 'FK_BOTRILOP_BOTRILOP3_PHONGHOC')
-alter table BOTRILOP
-   drop constraint FK_BOTRILOP_BOTRILOP3_PHONGHOC
+   where r.fkeyid = object_id('BO_TRI_LOP') and o.name = 'FK_BO_TRI_L_BO_TRI_LO_CA_HOC')
+alter table BO_TRI_LOP
+   drop constraint FK_BO_TRI_L_BO_TRI_LO_CA_HOC
 go
 
 if exists (select 1
    from sys.sysreferences r join sys.sysobjects o on (o.id = r.constid and o.type = 'F')
-   where r.fkeyid = object_id('CHITIETDIEMDANH') and o.name = 'FK_CHITIETD_CHITIETDI_DIEMDANH')
-alter table CHITIETDIEMDANH
-   drop constraint FK_CHITIETD_CHITIETDI_DIEMDANH
+   where r.fkeyid = object_id('GIANG_VIEN') and o.name = 'FK_GIANG_VI_RELATIONS__ON_VI')
+alter table GIANG_VIEN
+   drop constraint FK_GIANG_VI_RELATIONS__ON_VI
 go
 
 if exists (select 1
    from sys.sysreferences r join sys.sysobjects o on (o.id = r.constid and o.type = 'F')
-   where r.fkeyid = object_id('CHITIETDIEMDANH') and o.name = 'FK_CHITIETD_CHITIETDI_SINHVIEN')
-alter table CHITIETDIEMDANH
-   drop constraint FK_CHITIETD_CHITIETDI_SINHVIEN
-go
-
-if exists (select 1
-   from sys.sysreferences r join sys.sysobjects o on (o.id = r.constid and o.type = 'F')
-   where r.fkeyid = object_id('DIEMDANH') and o.name = 'FK_DIEMDANH_RELATIONS_GIANGVIE')
-alter table DIEMDANH
-   drop constraint FK_DIEMDANH_RELATIONS_GIANGVIE
-go
-
-if exists (select 1
-   from sys.sysreferences r join sys.sysobjects o on (o.id = r.constid and o.type = 'F')
-   where r.fkeyid = object_id('GIANGVIEN') and o.name = 'FK_GIANGVIE_RELATIONS_DONVI')
-alter table GIANGVIEN
-   drop constraint FK_GIANGVIE_RELATIONS_DONVI
-go
-
-if exists (select 1
-   from sys.sysreferences r join sys.sysobjects o on (o.id = r.constid and o.type = 'F')
-   where r.fkeyid = object_id('HOC') and o.name = 'FK_HOC_HOC_SINHVIEN')
+   where r.fkeyid = object_id('HOC') and o.name = 'FK_HOC_HOC_SINH_VIE')
 alter table HOC
-   drop constraint FK_HOC_HOC_SINHVIEN
+   drop constraint FK_HOC_HOC_SINH_VIE
 go
 
 if exists (select 1
    from sys.sysreferences r join sys.sysobjects o on (o.id = r.constid and o.type = 'F')
-   where r.fkeyid = object_id('HOC') and o.name = 'FK_HOC_HOC2_LOPMONHO')
+   where r.fkeyid = object_id('HOC') and o.name = 'FK_HOC_HOC2_LOP_MON_')
 alter table HOC
-   drop constraint FK_HOC_HOC2_LOPMONHO
+   drop constraint FK_HOC_HOC2_LOP_MON_
 go
 
 if exists (select 1
    from sys.sysreferences r join sys.sysobjects o on (o.id = r.constid and o.type = 'F')
-   where r.fkeyid = object_id('LAP') and o.name = 'FK_LAP_LAP_MONHOC')
+   where r.fkeyid = object_id('LAP') and o.name = 'FK_LAP_LAP_MON_HOC')
 alter table LAP
-   drop constraint FK_LAP_LAP_MONHOC
+   drop constraint FK_LAP_LAP_MON_HOC
 go
 
 if exists (select 1
    from sys.sysreferences r join sys.sysobjects o on (o.id = r.constid and o.type = 'F')
-   where r.fkeyid = object_id('LAP') and o.name = 'FK_LAP_LAP2_LOPMONHO')
+   where r.fkeyid = object_id('LAP') and o.name = 'FK_LAP_LAP2_LOP_MON_')
 alter table LAP
-   drop constraint FK_LAP_LAP2_LOPMONHO
+   drop constraint FK_LAP_LAP2_LOP_MON_
 go
 
 if exists (select 1
    from sys.sysreferences r join sys.sysobjects o on (o.id = r.constid and o.type = 'F')
-   where r.fkeyid = object_id('LOPMONHOC') and o.name = 'FK_LOPMONHO_RELATIONS_DIEMDANH')
-alter table LOPMONHOC
-   drop constraint FK_LOPMONHO_RELATIONS_DIEMDANH
+   where r.fkeyid = object_id('LOP_MON_HOC') and o.name = 'FK_LOP_MON__RELATIONS_GIANG_VI')
+alter table LOP_MON_HOC
+   drop constraint FK_LOP_MON__RELATIONS_GIANG_VI
 go
 
 if exists (select 1
    from sys.sysreferences r join sys.sysobjects o on (o.id = r.constid and o.type = 'F')
-   where r.fkeyid = object_id('PHANCONG') and o.name = 'FK_PHANCONG_PHANCONG_LOPMONHO')
-alter table PHANCONG
-   drop constraint FK_PHANCONG_PHANCONG_LOPMONHO
+   where r.fkeyid = object_id('_IEM_DANH') and o.name = 'FK__IEM_DAN__IEM_DANH_GIANG_VI')
+alter table _IEM_DANH
+   drop constraint FK__IEM_DAN__IEM_DANH_GIANG_VI
 go
 
 if exists (select 1
    from sys.sysreferences r join sys.sysobjects o on (o.id = r.constid and o.type = 'F')
-   where r.fkeyid = object_id('PHANCONG') and o.name = 'FK_PHANCONG_PHANCONG2_GIANGVIE')
-alter table PHANCONG
-   drop constraint FK_PHANCONG_PHANCONG2_GIANGVIE
+   where r.fkeyid = object_id('_IEM_DANH') and o.name = 'FK__IEM_DAN__IEM_DANH_SINH_VIE')
+alter table _IEM_DANH
+   drop constraint FK__IEM_DAN__IEM_DANH_SINH_VIE
+go
+
+if exists (select 1
+   from sys.sysreferences r join sys.sysobjects o on (o.id = r.constid and o.type = 'F')
+   where r.fkeyid = object_id('_IEM_DANH') and o.name = 'FK__IEM_DAN__IEM_DANH_LOP_MON_')
+alter table _IEM_DANH
+   drop constraint FK__IEM_DAN__IEM_DANH_LOP_MON_
 go
 
 if exists (select 1
             from  sysindexes
-           where  id    = object_id('BOTRILOP')
-            and   name  = 'BOTRILOP3_FK'
+           where  id    = object_id('BO_TRI_LOP')
+            and   name  = 'BO_TRI_LOP3_FK'
             and   indid > 0
             and   indid < 255)
-   drop index BOTRILOP.BOTRILOP3_FK
+   drop index BO_TRI_LOP.BO_TRI_LOP3_FK
 go
 
 if exists (select 1
             from  sysindexes
-           where  id    = object_id('BOTRILOP')
-            and   name  = 'BOTRILOP2_FK'
+           where  id    = object_id('BO_TRI_LOP')
+            and   name  = 'BO_TRI_LOP2_FK'
             and   indid > 0
             and   indid < 255)
-   drop index BOTRILOP.BOTRILOP2_FK
+   drop index BO_TRI_LOP.BO_TRI_LOP2_FK
 go
 
 if exists (select 1
             from  sysindexes
-           where  id    = object_id('BOTRILOP')
-            and   name  = 'BOTRILOP_FK'
+           where  id    = object_id('BO_TRI_LOP')
+            and   name  = 'BO_TRI_LOP_FK'
             and   indid > 0
             and   indid < 255)
-   drop index BOTRILOP.BOTRILOP_FK
+   drop index BO_TRI_LOP.BO_TRI_LOP_FK
 go
 
 if exists (select 1
             from  sysobjects
-           where  id = object_id('BOTRILOP')
+           where  id = object_id('BO_TRI_LOP')
             and   type = 'U')
-   drop table BOTRILOP
+   drop table BO_TRI_LOP
 go
 
 if exists (select 1
             from  sysobjects
-           where  id = object_id('CAHOC')
+           where  id = object_id('CA_HOC')
             and   type = 'U')
-   drop table CAHOC
+   drop table CA_HOC
 go
 
 if exists (select 1
             from  sysindexes
-           where  id    = object_id('CHITIETDIEMDANH')
-            and   name  = 'CHITIETDIEMDANH2_FK'
-            and   indid > 0
-            and   indid < 255)
-   drop index CHITIETDIEMDANH.CHITIETDIEMDANH2_FK
-go
-
-if exists (select 1
-            from  sysindexes
-           where  id    = object_id('CHITIETDIEMDANH')
-            and   name  = 'CHITIETDIEMDANH_FK'
-            and   indid > 0
-            and   indid < 255)
-   drop index CHITIETDIEMDANH.CHITIETDIEMDANH_FK
-go
-
-if exists (select 1
-            from  sysobjects
-           where  id = object_id('CHITIETDIEMDANH')
-            and   type = 'U')
-   drop table CHITIETDIEMDANH
-go
-
-if exists (select 1
-            from  sysindexes
-           where  id    = object_id('DIEMDANH')
-            and   name  = 'RELATIONSHIP_2_FK'
-            and   indid > 0
-            and   indid < 255)
-   drop index DIEMDANH.RELATIONSHIP_2_FK
-go
-
-if exists (select 1
-            from  sysobjects
-           where  id = object_id('DIEMDANH')
-            and   type = 'U')
-   drop table DIEMDANH
-go
-
-if exists (select 1
-            from  sysobjects
-           where  id = object_id('DONVI')
-            and   type = 'U')
-   drop table DONVI
-go
-
-if exists (select 1
-            from  sysindexes
-           where  id    = object_id('GIANGVIEN')
+           where  id    = object_id('GIANG_VIEN')
             and   name  = 'RELATIONSHIP_1_FK'
             and   indid > 0
             and   indid < 255)
-   drop index GIANGVIEN.RELATIONSHIP_1_FK
+   drop index GIANG_VIEN.RELATIONSHIP_1_FK
 go
 
 if exists (select 1
             from  sysobjects
-           where  id = object_id('GIANGVIEN')
+           where  id = object_id('GIANG_VIEN')
             and   type = 'U')
-   drop table GIANGVIEN
+   drop table GIANG_VIEN
 go
 
 if exists (select 1
@@ -259,200 +197,145 @@ go
 
 if exists (select 1
             from  sysindexes
-           where  id    = object_id('LOPMONHOC')
-            and   name  = 'RELATIONSHIP_4_FK'
+           where  id    = object_id('LOP_MON_HOC')
+            and   name  = 'RELATIONSHIP_2_FK'
             and   indid > 0
             and   indid < 255)
-   drop index LOPMONHOC.RELATIONSHIP_4_FK
+   drop index LOP_MON_HOC.RELATIONSHIP_2_FK
 go
 
 if exists (select 1
             from  sysobjects
-           where  id = object_id('LOPMONHOC')
+           where  id = object_id('LOP_MON_HOC')
             and   type = 'U')
-   drop table LOPMONHOC
+   drop table LOP_MON_HOC
 go
 
 if exists (select 1
             from  sysobjects
-           where  id = object_id('MONHOC')
+           where  id = object_id('MON_HOC')
             and   type = 'U')
-   drop table MONHOC
+   drop table MON_HOC
+go
+
+if exists (select 1
+            from  sysobjects
+           where  id = object_id('PHONG_HOC')
+            and   type = 'U')
+   drop table PHONG_HOC
+go
+
+if exists (select 1
+            from  sysobjects
+           where  id = object_id('SINH_VIEN')
+            and   type = 'U')
+   drop table SINH_VIEN
 go
 
 if exists (select 1
             from  sysindexes
-           where  id    = object_id('PHANCONG')
-            and   name  = 'PHANCONG2_FK'
+           where  id    = object_id('_IEM_DANH')
+            and   name  = '_IEM_DANH3_FK'
             and   indid > 0
             and   indid < 255)
-   drop index PHANCONG.PHANCONG2_FK
+   drop index _IEM_DANH._IEM_DANH3_FK
 go
 
 if exists (select 1
             from  sysindexes
-           where  id    = object_id('PHANCONG')
-            and   name  = 'PHANCONG_FK'
+           where  id    = object_id('_IEM_DANH')
+            and   name  = '_IEM_DANH2_FK'
             and   indid > 0
             and   indid < 255)
-   drop index PHANCONG.PHANCONG_FK
+   drop index _IEM_DANH._IEM_DANH2_FK
+go
+
+if exists (select 1
+            from  sysindexes
+           where  id    = object_id('_IEM_DANH')
+            and   name  = '_IEM_DANH_FK'
+            and   indid > 0
+            and   indid < 255)
+   drop index _IEM_DANH._IEM_DANH_FK
 go
 
 if exists (select 1
             from  sysobjects
-           where  id = object_id('PHANCONG')
+           where  id = object_id('_IEM_DANH')
             and   type = 'U')
-   drop table PHANCONG
+   drop table _IEM_DANH
 go
 
 if exists (select 1
             from  sysobjects
-           where  id = object_id('PHONGHOC')
+           where  id = object_id('_ON_VI')
             and   type = 'U')
-   drop table PHONGHOC
-go
-
-if exists (select 1
-            from  sysobjects
-           where  id = object_id('SINHVIEN')
-            and   type = 'U')
-   drop table SINHVIEN
+   drop table _ON_VI
 go
 
 /*==============================================================*/
-/* Table: BOTRILOP                                              */
+/* Table: BO_TRI_LOP                                            */
 /*==============================================================*/
-create table BOTRILOP (
-   MAGV                 char(10)             not null,
-   IDDIEMDANH           int                  not null,
-   MALOPMONHOC          char(10)             not null,
-   MACAHOC              char(10)             not null,
+create table BO_TRI_LOP (
    MAPHONG              char(10)             not null,
+   MALOPMON             char(10)             not null,
+   MACAHOC              char(10)             not null,
    THU                  varchar(10)          null,
-   constraint PK_BOTRILOP primary key (MAGV, IDDIEMDANH, MALOPMONHOC, MACAHOC, MAPHONG)
+   constraint PK_BO_TRI_LOP primary key (MAPHONG, MALOPMON, MACAHOC)
 )
 go
 
 /*==============================================================*/
-/* Index: BOTRILOP_FK                                           */
+/* Index: BO_TRI_LOP_FK                                         */
 /*==============================================================*/
 
 
 
 
-create nonclustered index BOTRILOP_FK on BOTRILOP (MAGV ASC,
-  IDDIEMDANH ASC,
-  MALOPMONHOC ASC)
+create nonclustered index BO_TRI_LOP_FK on BO_TRI_LOP (MAPHONG ASC)
 go
 
 /*==============================================================*/
-/* Index: BOTRILOP2_FK                                          */
+/* Index: BO_TRI_LOP2_FK                                        */
 /*==============================================================*/
 
 
 
 
-create nonclustered index BOTRILOP2_FK on BOTRILOP (MACAHOC ASC)
+create nonclustered index BO_TRI_LOP2_FK on BO_TRI_LOP (MALOPMON ASC)
 go
 
 /*==============================================================*/
-/* Index: BOTRILOP3_FK                                          */
+/* Index: BO_TRI_LOP3_FK                                        */
 /*==============================================================*/
 
 
 
 
-create nonclustered index BOTRILOP3_FK on BOTRILOP (MAPHONG ASC)
+create nonclustered index BO_TRI_LOP3_FK on BO_TRI_LOP (MACAHOC ASC)
 go
 
 /*==============================================================*/
-/* Table: CAHOC                                                 */
+/* Table: CA_HOC                                                */
 /*==============================================================*/
-create table CAHOC (
+create table CA_HOC (
    MACAHOC              char(10)             not null,
    GIOBD                datetime             null,
-   GIOKETTHUC           datetime             null,
+   GIOKT                datetime             null,
    BUOIHOC              varchar(10)          null,
-   constraint PK_CAHOC primary key (MACAHOC)
+   constraint PK_CA_HOC primary key (MACAHOC)
 )
 go
 
 /*==============================================================*/
-/* Table: CHITIETDIEMDANH                                       */
+/* Table: GIANG_VIEN                                            */
 /*==============================================================*/
-create table CHITIETDIEMDANH (
-   MAGV                 char(10)             not null,
-   IDDIEMDANH           int                  not null,
-   MASV                 char(10)             not null,
-   SOTIETVANG           int                  null,
-   LYDO                 varchar(50)          null,
-   constraint PK_CHITIETDIEMDANH primary key (MAGV, IDDIEMDANH, MASV)
-)
-go
-
-/*==============================================================*/
-/* Index: CHITIETDIEMDANH_FK                                    */
-/*==============================================================*/
-
-
-
-
-create nonclustered index CHITIETDIEMDANH_FK on CHITIETDIEMDANH (MAGV ASC,
-  IDDIEMDANH ASC)
-go
-
-/*==============================================================*/
-/* Index: CHITIETDIEMDANH2_FK                                   */
-/*==============================================================*/
-
-
-
-
-create nonclustered index CHITIETDIEMDANH2_FK on CHITIETDIEMDANH (MASV ASC)
-go
-
-/*==============================================================*/
-/* Table: DIEMDANH                                              */
-/*==============================================================*/
-create table DIEMDANH (
-   MAGV                 char(10)             not null,
-   IDDIEMDANH           int                  not null,
-   NGAYDIEMDANH         datetime             null,
-   LANDIEMDANH          int                  null,
-   constraint PK_DIEMDANH primary key (MAGV, IDDIEMDANH)
-)
-go
-
-/*==============================================================*/
-/* Index: RELATIONSHIP_2_FK                                     */
-/*==============================================================*/
-
-
-
-
-create nonclustered index RELATIONSHIP_2_FK on DIEMDANH (MAGV ASC)
-go
-
-/*==============================================================*/
-/* Table: DONVI                                                 */
-/*==============================================================*/
-create table DONVI (
-   MADONVI              char(10)             not null,
-   TENDONVI             varchar(50)          null,
-   constraint PK_DONVI primary key (MADONVI)
-)
-go
-
-/*==============================================================*/
-/* Table: GIANGVIEN                                             */
-/*==============================================================*/
-create table GIANGVIEN (
-   MAGV                 char(10)             not null,
-   MADONVI              char(10)             null,
-   HOTEN                varchar(50)          null,
-   TRINHDO              varchar(50)          null,
-   CHUYENMON            varchar(50)          null,
-   constraint PK_GIANGVIEN primary key (MAGV)
+create table GIANG_VIEN (
+   MA_GIANG_VIEN        char(10)             not null,
+   MA__ON_VI            char(10)             null,
+   HO_TEN               varchar(50)          null,
+   CHUYEN_MON           varchar(50)          null,
+   constraint PK_GIANG_VIEN primary key (MA_GIANG_VIEN)
 )
 go
 
@@ -463,7 +346,7 @@ go
 
 
 
-create nonclustered index RELATIONSHIP_1_FK on GIANGVIEN (MADONVI ASC)
+create nonclustered index RELATIONSHIP_1_FK on GIANG_VIEN (MA__ON_VI ASC)
 go
 
 /*==============================================================*/
@@ -471,12 +354,10 @@ go
 /*==============================================================*/
 create table HOC (
    MASV                 char(10)             not null,
-   MAGV                 char(10)             not null,
-   IDDIEMDANH           int                  not null,
-   MALOPMONHOC          char(10)             not null,
-   HOCKY                int                  null,
-   NAMHOC               int                  null,
-   constraint PK_HOC primary key (MAGV, IDDIEMDANH, MASV, MALOPMONHOC)
+   MALOPMON             char(10)             not null,
+   HOC_KY               int                  null,
+   NAM_HOC              int                  null,
+   constraint PK_HOC primary key (MASV, MALOPMON)
 )
 go
 
@@ -497,23 +378,19 @@ go
 
 
 
-create nonclustered index HOC2_FK on HOC (MAGV ASC,
-  IDDIEMDANH ASC,
-  MALOPMONHOC ASC)
+create nonclustered index HOC2_FK on HOC (MALOPMON ASC)
 go
 
 /*==============================================================*/
 /* Table: LAP                                                   */
 /*==============================================================*/
 create table LAP (
-   MAMON                char(10)             not null,
-   MAGV                 char(10)             not null,
-   IDDIEMDANH           int                  not null,
-   MALOPMONHOC          char(10)             not null,
-   NAMHOC               int                  null,
-   HOCKY                int                  null,
+   MAMONHOC             char(10)             not null,
+   MALOPMON             char(10)             not null,
+   HOC_KY               int                  null,
+   NAM_HOC              int                  null,
    SISO                 int                  null,
-   constraint PK_LAP primary key (MAGV, IDDIEMDANH, MAMON, MALOPMONHOC)
+   constraint PK_LAP primary key (MAMONHOC, MALOPMON)
 )
 go
 
@@ -524,7 +401,7 @@ go
 
 
 
-create nonclustered index LAP_FK on LAP (MAMON ASC)
+create nonclustered index LAP_FK on LAP (MAMONHOC ASC)
 go
 
 /*==============================================================*/
@@ -534,171 +411,177 @@ go
 
 
 
-create nonclustered index LAP2_FK on LAP (MAGV ASC,
-  IDDIEMDANH ASC,
-  MALOPMONHOC ASC)
+create nonclustered index LAP2_FK on LAP (MALOPMON ASC)
 go
 
 /*==============================================================*/
-/* Table: LOPMONHOC                                             */
+/* Table: LOP_MON_HOC                                           */
 /*==============================================================*/
-create table LOPMONHOC (
-   MAGV                 char(10)             not null,
-   IDDIEMDANH           int                  not null,
-   MALOPMONHOC          char(10)             not null,
-   TENLOPMONHOC         varchar(50)          null,
-   SOSINHVIEN           int                  null,
-   constraint PK_LOPMONHOC primary key (MAGV, IDDIEMDANH, MALOPMONHOC)
+create table LOP_MON_HOC (
+   MALOPMON             char(10)             not null,
+   MA_GIANG_VIEN        char(10)             null,
+   TENLOPMON            varchar(30)          null,
+   constraint PK_LOP_MON_HOC primary key (MALOPMON)
 )
 go
 
 /*==============================================================*/
-/* Index: RELATIONSHIP_4_FK                                     */
+/* Index: RELATIONSHIP_2_FK                                     */
 /*==============================================================*/
 
 
 
 
-create nonclustered index RELATIONSHIP_4_FK on LOPMONHOC (MAGV ASC,
-  IDDIEMDANH ASC)
+create nonclustered index RELATIONSHIP_2_FK on LOP_MON_HOC (MA_GIANG_VIEN ASC)
 go
 
 /*==============================================================*/
-/* Table: MONHOC                                                */
+/* Table: MON_HOC                                               */
 /*==============================================================*/
-create table MONHOC (
-   MAMON                char(10)             not null,
-   TENMON               varchar(50)          null,
+create table MON_HOC (
+   MAMONHOC             char(10)             not null,
+   TENMONHOC            varchar(50)          null,
    TONGSOTIET           int                  null,
-   constraint PK_MONHOC primary key (MAMON)
+   SOTC                 int                  null,
+   constraint PK_MON_HOC primary key (MAMONHOC)
 )
 go
 
 /*==============================================================*/
-/* Table: PHANCONG                                              */
+/* Table: PHONG_HOC                                             */
 /*==============================================================*/
-create table PHANCONG (
-   LOP_MAGV             char(10)             not null,
-   IDDIEMDANH           int                  not null,
-   MALOPMONHOC          char(10)             not null,
-   MAGV                 char(10)             not null,
-   constraint PK_PHANCONG primary key (LOP_MAGV, IDDIEMDANH, MALOPMONHOC, MAGV)
-)
-go
-
-/*==============================================================*/
-/* Index: PHANCONG_FK                                           */
-/*==============================================================*/
-
-
-
-
-create nonclustered index PHANCONG_FK on PHANCONG (LOP_MAGV ASC,
-  IDDIEMDANH ASC,
-  MALOPMONHOC ASC)
-go
-
-/*==============================================================*/
-/* Index: PHANCONG2_FK                                          */
-/*==============================================================*/
-
-
-
-
-create nonclustered index PHANCONG2_FK on PHANCONG (MAGV ASC)
-go
-
-/*==============================================================*/
-/* Table: PHONGHOC                                              */
-/*==============================================================*/
-create table PHONGHOC (
+create table PHONG_HOC (
    MAPHONG              char(10)             not null,
-   TENPHONG             varchar(50)          null,
-   DIACHI               varchar(50)          null,
-   constraint PK_PHONGHOC primary key (MAPHONG)
+   TENPHONG             char(10)             null,
+   SOGHE                int                  null,
+   constraint PK_PHONG_HOC primary key (MAPHONG)
 )
 go
 
 /*==============================================================*/
-/* Table: SINHVIEN                                              */
+/* Table: SINH_VIEN                                             */
 /*==============================================================*/
-create table SINHVIEN (
+create table SINH_VIEN (
    MASV                 char(10)             not null,
-   TENSV                varchar(50)          null,
-   NGAYSINH             datetime             null,
-   GIOITINH             bit                  null,
-   LOPNIENCHE           varchar(10)          null,
-   constraint PK_SINHVIEN primary key (MASV)
+   HO_TEN               varchar(50)          null,
+   NGAY_SINH            datetime             null,
+   GIOI_TINH            bit                  null,
+   LOP_CHUYEN_CHE       varchar(30)          null,
+   constraint PK_SINH_VIEN primary key (MASV)
 )
 go
 
-alter table BOTRILOP
-   add constraint FK_BOTRILOP_BOTRILOP_LOPMONHO foreign key (MAGV, IDDIEMDANH, MALOPMONHOC)
-      references LOPMONHOC (MAGV, IDDIEMDANH, MALOPMONHOC)
+/*==============================================================*/
+/* Table: _IEM_DANH                                             */
+/*==============================================================*/
+create table _IEM_DANH (
+   MA_GIANG_VIEN        char(10)             not null,
+   MASV                 char(10)             not null,
+   MALOPMON             char(10)             not null,
+   LAN__IEM_DANH        int                  null,
+   NGAY__IEM_DANH       datetime             null,
+   _IEM_DANH            bit                  null,
+   constraint PK__IEM_DANH primary key (MA_GIANG_VIEN, MASV, MALOPMON)
+)
 go
 
-alter table BOTRILOP
-   add constraint FK_BOTRILOP_BOTRILOP2_CAHOC foreign key (MACAHOC)
-      references CAHOC (MACAHOC)
+/*==============================================================*/
+/* Index: _IEM_DANH_FK                                          */
+/*==============================================================*/
+
+
+
+
+create nonclustered index _IEM_DANH_FK on _IEM_DANH (MA_GIANG_VIEN ASC)
 go
 
-alter table BOTRILOP
-   add constraint FK_BOTRILOP_BOTRILOP3_PHONGHOC foreign key (MAPHONG)
-      references PHONGHOC (MAPHONG)
+/*==============================================================*/
+/* Index: _IEM_DANH2_FK                                         */
+/*==============================================================*/
+
+
+
+
+create nonclustered index _IEM_DANH2_FK on _IEM_DANH (MASV ASC)
 go
 
-alter table CHITIETDIEMDANH
-   add constraint FK_CHITIETD_CHITIETDI_DIEMDANH foreign key (MAGV, IDDIEMDANH)
-      references DIEMDANH (MAGV, IDDIEMDANH)
+/*==============================================================*/
+/* Index: _IEM_DANH3_FK                                         */
+/*==============================================================*/
+
+
+
+
+create nonclustered index _IEM_DANH3_FK on _IEM_DANH (MALOPMON ASC)
 go
 
-alter table CHITIETDIEMDANH
-   add constraint FK_CHITIETD_CHITIETDI_SINHVIEN foreign key (MASV)
-      references SINHVIEN (MASV)
+/*==============================================================*/
+/* Table: _ON_VI                                                */
+/*==============================================================*/
+create table _ON_VI (
+   MA__ON_VI            char(10)             not null,
+   TEN__ON_VI           varchar(50)          null,
+   constraint PK__ON_VI primary key (MA__ON_VI)
+)
 go
 
-alter table DIEMDANH
-   add constraint FK_DIEMDANH_RELATIONS_GIANGVIE foreign key (MAGV)
-      references GIANGVIEN (MAGV)
+alter table BO_TRI_LOP
+   add constraint FK_BO_TRI_L_BO_TRI_LO_PHONG_HO foreign key (MAPHONG)
+      references PHONG_HOC (MAPHONG)
 go
 
-alter table GIANGVIEN
-   add constraint FK_GIANGVIE_RELATIONS_DONVI foreign key (MADONVI)
-      references DONVI (MADONVI)
+alter table BO_TRI_LOP
+   add constraint FK_BO_TRI_L_BO_TRI_LO_LOP_MON_ foreign key (MALOPMON)
+      references LOP_MON_HOC (MALOPMON)
+go
+
+alter table BO_TRI_LOP
+   add constraint FK_BO_TRI_L_BO_TRI_LO_CA_HOC foreign key (MACAHOC)
+      references CA_HOC (MACAHOC)
+go
+
+alter table GIANG_VIEN
+   add constraint FK_GIANG_VI_RELATIONS__ON_VI foreign key (MA__ON_VI)
+      references _ON_VI (MA__ON_VI)
 go
 
 alter table HOC
-   add constraint FK_HOC_HOC_SINHVIEN foreign key (MASV)
-      references SINHVIEN (MASV)
+   add constraint FK_HOC_HOC_SINH_VIE foreign key (MASV)
+      references SINH_VIEN (MASV)
 go
 
 alter table HOC
-   add constraint FK_HOC_HOC2_LOPMONHO foreign key (MAGV, IDDIEMDANH, MALOPMONHOC)
-      references LOPMONHOC (MAGV, IDDIEMDANH, MALOPMONHOC)
+   add constraint FK_HOC_HOC2_LOP_MON_ foreign key (MALOPMON)
+      references LOP_MON_HOC (MALOPMON)
 go
 
 alter table LAP
-   add constraint FK_LAP_LAP_MONHOC foreign key (MAMON)
-      references MONHOC (MAMON)
+   add constraint FK_LAP_LAP_MON_HOC foreign key (MAMONHOC)
+      references MON_HOC (MAMONHOC)
 go
 
 alter table LAP
-   add constraint FK_LAP_LAP2_LOPMONHO foreign key (MAGV, IDDIEMDANH, MALOPMONHOC)
-      references LOPMONHOC (MAGV, IDDIEMDANH, MALOPMONHOC)
+   add constraint FK_LAP_LAP2_LOP_MON_ foreign key (MALOPMON)
+      references LOP_MON_HOC (MALOPMON)
 go
 
-alter table LOPMONHOC
-   add constraint FK_LOPMONHO_RELATIONS_DIEMDANH foreign key (MAGV, IDDIEMDANH)
-      references DIEMDANH (MAGV, IDDIEMDANH)
+alter table LOP_MON_HOC
+   add constraint FK_LOP_MON__RELATIONS_GIANG_VI foreign key (MA_GIANG_VIEN)
+      references GIANG_VIEN (MA_GIANG_VIEN)
 go
 
-alter table PHANCONG
-   add constraint FK_PHANCONG_PHANCONG_LOPMONHO foreign key (LOP_MAGV, IDDIEMDANH, MALOPMONHOC)
-      references LOPMONHOC (MAGV, IDDIEMDANH, MALOPMONHOC)
+alter table _IEM_DANH
+   add constraint FK__IEM_DAN__IEM_DANH_GIANG_VI foreign key (MA_GIANG_VIEN)
+      references GIANG_VIEN (MA_GIANG_VIEN)
 go
 
-alter table PHANCONG
-   add constraint FK_PHANCONG_PHANCONG2_GIANGVIE foreign key (MAGV)
-      references GIANGVIEN (MAGV)
+alter table _IEM_DANH
+   add constraint FK__IEM_DAN__IEM_DANH_SINH_VIE foreign key (MASV)
+      references SINH_VIEN (MASV)
+go
+
+alter table _IEM_DANH
+   add constraint FK__IEM_DAN__IEM_DANH_LOP_MON_ foreign key (MALOPMON)
+      references LOP_MON_HOC (MALOPMON)
 go
 
