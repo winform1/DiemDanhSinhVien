@@ -1,4 +1,5 @@
-﻿using System;
+﻿using DiemDanhSinhVien.Views;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -14,6 +15,17 @@ namespace DiemDanhSinhVien
         public frmMain()
         {
             InitializeComponent();
+        }
+
+        private void tabHienThi_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnPhanQuyen_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
+        {
+            frmThemnguoidung frmthemnguoidung = new frmThemnguoidung();
+            frmthemnguoidung.ShowDialog();
         }
 
        

@@ -47,6 +47,10 @@
     <Compile Include="BLLMonhoc.cs" />
     <Compile Include="BLLPhonghoc.cs" />
     <Compile Include="BLLSinhvien.cs" />
+    <Compile Include="BLL_NguoiDung.cs" />
+    <Compile Include="BLL_NguoidungNhomnguoidung.cs" />
+    <Compile Include="BLL_Nhomnguoidung.cs" />
+    <Compile Include="BLL_themnguoidungvaonhom.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

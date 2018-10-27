@@ -343,6 +343,7 @@
             this.btnPhanQuyen.Name = "btnPhanQuyen";
             this.btnPhanQuyen.RibbonStyle = ((DevExpress.XtraBars.Ribbon.RibbonItemStyles)(((DevExpress.XtraBars.Ribbon.RibbonItemStyles.Large | DevExpress.XtraBars.Ribbon.RibbonItemStyles.SmallWithText) 
             | DevExpress.XtraBars.Ribbon.RibbonItemStyles.SmallWithoutText)));
+            this.btnPhanQuyen.ItemClick += new DevExpress.XtraBars.ItemClickEventHandler(this.btnPhanQuyen_ItemClick);
             // 
             // btnBackup
             // 
@@ -658,6 +659,7 @@
             this.tabHienThi.Name = "tabHienThi";
             this.tabHienThi.Size = new System.Drawing.Size(928, 308);
             this.tabHienThi.TabIndex = 1;
+            this.tabHienThi.Click += new System.EventHandler(this.tabHienThi_Click);
             // 
             // frmMain
             // 

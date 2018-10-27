@@ -20,7 +20,7 @@ namespace DiemDanhSinhVien
 
             BonusSkins.Register();
             SkinManager.EnableFormSkins();
-            Application.Run(new frmMain());
+            Application.Run(new Login());
         }
     }
 }

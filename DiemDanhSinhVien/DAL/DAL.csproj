@@ -44,17 +44,27 @@
     <Compile Include="DALPhonghoc.cs" />
     <Compile Include="DALGiangvien.cs" />
     <Compile Include="DALSinhvien.cs" />
+    <Compile Include="DAL_DMManhinh.cs" />
+    <Compile Include="DAL_NguoiDung.cs" />
+    <Compile Include="DAL_NguoidungNhomnguoidung.cs" />
+    <Compile Include="DAL_NhomNguoiDung.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Properties\Settings.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
       <DependentUpon>Settings.settings</DependentUpon>
     </Compile>
-    <Compile Include="qlDiemdanhSv.Designer.cs">
+    <Compile Include="qldiemdanhsv.cs">
+      <DependentUpon>qldiemdanhsv.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="qldiemdanhsv.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
-      <DependentUpon>qlDiemdanhSv.xsd</DependentUpon>
+      <DependentUpon>qldiemdanhsv.xsd</DependentUpon>
     </Compile>
+    <Compile Include="QL_PhanQuyen.cs" />
+    <Compile Include="Themnguoidungvaonhom.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config" />
@@ -62,16 +72,16 @@
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
     </None>
-    <None Include="qlDiemdanhSv.xsc">
-      <DependentUpon>qlDiemdanhSv.xsd</DependentUpon>
+    <None Include="qldiemdanhsv.xsc">
+      <DependentUpon>qldiemdanhsv.xsd</DependentUpon>
     </None>
-    <None Include="qlDiemdanhSv.xsd">
+    <None Include="qldiemdanhsv.xsd">
       <SubType>Designer</SubType>
       <Generator>MSDataSetGenerator</Generator>
-      <LastGenOutput>qlDiemdanhSv.Designer.cs</LastGenOutput>
+      <LastGenOutput>qldiemdanhsv.Designer.cs</LastGenOutput>
     </None>
-    <None Include="qlDiemdanhSv.xss">
-      <DependentUpon>qlDiemdanhSv.xsd</DependentUpon>
+    <None Include="qldiemdanhsv.xss">
+      <DependentUpon>qldiemdanhsv.xsd</DependentUpon>
     </None>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

@@ -22,5 +22,18 @@ namespace DiemDanhSinhVien.Properties {
                 return defaultInstance;
             }
         }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=WTFBEE-PC\\SQLEXSERVER;Initial Catalog=qldiemdanhsv;User ID=sa;Passwor" +
+            "d=sa2012")]
+        public string LTWNCConn {
+            get {
+                return ((string)(this["LTWNCConn"]));
+            }
+            set {
+                this["LTWNCConn"] = value;
+            }
+        }
     }
 }
